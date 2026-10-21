@@ -8,6 +8,7 @@
 ![PyTorch](https://img.shields.io/badge/pytorch-transformers-3b4252?style=flat-square&logo=pytorch&logoColor=white)
 ![BART](https://img.shields.io/badge/model-bart--large--cnn-3b4252?style=flat-square)
 ![Task](https://img.shields.io/badge/task-clinical%20nlp-3b4252?style=flat-square)
+![Views](https://hits.sh/github.com/aniiiket08/clinical-note-summarization.svg?style=flat-square&color=3b4252&label=views)
 
 [Overview](#-overview) · [Pipeline](#-pipeline) · [Results](#-results) · [Training](#-training) · [Limitations](#-limitations) · [Usage](#-usage) · [Structure](#-project-structure)
 
