@@ -1,0 +1,4 @@
+model,rouge1,rouge2,rougeL,bertscore_f1,meteor,ner_preservation_keyword,factual_consistency_proxy,medcon_lexicon
+TF-IDF extractive,0.2918,0.1751,0.1936,0.7291,0.0684,0.2459,1.0000,0.5143
+BART-large-cnn zero-shot,0.1926,0.1169,0.1384,0.7128,0.0395,0.1814,0.9995,0.4268
+BART-large-cnn fine-tuned,0.4922,0.3381,0.3470,0.9187,0.2546,0.5818,0.5802,0.6531

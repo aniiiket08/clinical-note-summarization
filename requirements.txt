@@ -1,0 +1,14 @@
+torch
+transformers==4.35.2
+accelerate==0.24.1
+datasets
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+rouge-score
+bert-score
+# optional: real NER metric (the notebook fell back to keywords without it)
+# scispacy and the en_core_sci_sm model

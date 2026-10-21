@@ -1,0 +1,5 @@
+epoch_as_logged,training_loss,validation_loss
+0,1.6846,1.6575
+1,1.6138,1.6208
+2,1.5646,1.6035
+4,1.5223,1.6013
